@@ -1,0 +1,12 @@
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\bin\Debug\net9.0\EvmCompiler.Core.deps.json
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\bin\Debug\net9.0\EvmCompiler.Core.dll
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\bin\Debug\net9.0\EvmCompiler.Core.pdb
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.AssemblyInfoInputs.cache
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.AssemblyInfo.cs
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.csproj.CoreCompileInputs.cache
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.dll
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\refint\EvmCompiler.Core.dll
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.pdb
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\ref\EvmCompiler.Core.dll
+D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Core\obj\Debug\net9.0\EvmCompiler.Core.sourcelink.json

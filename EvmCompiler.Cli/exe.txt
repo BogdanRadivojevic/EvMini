@@ -1,0 +1,24 @@
+﻿Run this in command prompt:
+# 1. Read your raw-byte file and convert every byte to two hex chars
+$bytes = [IO.File]::ReadAllBytes('D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Cli\output.bin')
+$hex   = ($bytes | ForEach-Object { $_.ToString('x2') }) -join ''
+
+# 2. Prepend “0x” and save as an ASCII-hex file
+$out = "0x$hex"
+Set-Content -Path 'D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Cli\output.hex' -Value $out
+
+# 3. Invoke evm against that hex file
+evm run `
+  --trace `
+  --trace.format json `
+  --statdump `
+  --codefile 'D:\web3_petnica\MiniEvmCompiler\EvmCompiler.Cli\output.hex'
+  
+  
+  
+  -------------------------------------
+  Paste this in command prompt
+  Works only if you have Geth
+
+
+dotnet run -- Exemples/exemple1.txt output.asm output.bin   

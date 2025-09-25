@@ -1,0 +1,13 @@
+﻿let a:u8 = 10;
+let b:u16 = 20;
+let c = true;
+
+while (a < b) {
+  a = a + 1;
+}
+
+if (c == true) {
+  a + b;
+} else {
+  let d = a - b; 
+}
